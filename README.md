@@ -1,11 +1,12 @@
-# dio-flashlight
+# App-Lanterna-React-Native
 
 Desafio dio: Construindo um app usando o sensor de movimento com React Native
 
-![image](https://user-images.githubusercontent.com/28990749/165650549-07daaabe-15fa-432e-9146-71bae90e43b0.png)
+Neste desafio foi feito um app de lanterna que além de ligar a lanterna do celular ao apertar no botão, também usaremos o acelerômetro para verificar quando celular chacoalhar
 
-![image](https://user-images.githubusercontent.com/28990749/165650568-afdd77ea-fa79-488c-ac0b-13c9ecce847c.png)
 
+![1](https://user-images.githubusercontent.com/53567018/171921111-111a0a7f-51fd-4d1a-9983-22e7c739d2c8.png)
+![2](https://user-images.githubusercontent.com/53567018/171921132-edc9bbbf-5f82-4e7a-99fe-aefd3b9259ef.png)
 
 ## Conteúdo 
 
